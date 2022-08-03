@@ -5,3 +5,9 @@ console.log(arrays[2]);
 console.log(arrays[4]);
 
 console.log(arrays[0]);
+
+var places = ["Dallas", "Omaha", "New York", "Miami", "Denver"]
+
+places.pop();
+
+console.log(places);
